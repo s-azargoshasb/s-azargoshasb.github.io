@@ -27,6 +27,7 @@ repository: "s-azargoshasb/s-azargoshasb.github.io"
 # ================================
 author:
   name: "Dr. Samaneh Azargoshasb"
+  # avatar: "/images/profile.jpg"
   avatar: "/images/profile.jpg"
   bio: "Applied AI Scientist developing intelligent perception technologies for robotic and image-guided systems."
   location: "Leiden, Netherlands"
