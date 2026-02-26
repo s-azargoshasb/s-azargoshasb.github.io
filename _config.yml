@@ -17,9 +17,10 @@ title_separator: "-"
 name: "Dr. Samaneh Azargoshasb"
 description: "Applied AI Scientist | Computer Vision | Medical Imaging | Robotics"
 
-url: "https://samanehazargoshasb.github.io"
+url: "https://s-azargoshasb.github.io"
 baseurl: ""
-repository: "s-azargoshasb/SamanehAzargoshasb.github.io"
+
+repository: "s-azargoshasb/s-azargoshasb.github.io"
 
 # ================================
 # Author (Sidebar)
