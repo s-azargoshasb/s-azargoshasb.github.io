@@ -23,14 +23,22 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  # avatar           : "profile.png"
+  # name             : "Your Sidebar Name"
+  # pronouns         : # example: "she/her"  
+  # bio              : "Short biography for the left-hand sidebar"
+  # location         : "Earth"
+  # employer         : "Red Brick University"
+  # uri              : # URL
+  # email            : "none@example.org" 
+  name: "Dr. Samaneh Azargoshasb"
+  avatar: "/images/profile.jpg"
+  bio: "Applied AI Scientist with expertise in computer vision, medical imaging, and AI-driven perception systems."
+  location: "Netherlands"
+  # email: "samaneh.azargoshasb@gmail.com"
+  googlescholar: "https://scholar.google.com/citations?user=-DZyKJsAAAAJ&hl=en"
+  github: "s-azargoshasb"
+  linkedin: "https://www.linkedin.com/in/samaneh-azargoshasb-a868a812a/"
 
   # Academic websites
   academia         : # URL
