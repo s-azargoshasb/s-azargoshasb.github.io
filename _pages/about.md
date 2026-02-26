@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
+
 
 I am a Scientist and Engineer with a PhD in Biomedical Engineering and several years of experience developing intelligent perception technologies for robotic and image-guided systems. My work focuses on transforming complex sensor and imaging data into actionable information that supports real-time decision-making in high-precision environments.
 
