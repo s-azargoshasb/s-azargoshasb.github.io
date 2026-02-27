@@ -41,7 +41,7 @@ The modality achieved sensitivity of 2.2 × 10⁻² mg/mL and detected hotspots 
 Journal publication — see Google Scholar
 
 ---
-
+<!--
 # Click-On gamma probe
 
 ![Click-On probe](/images/portfolio/Picture3_.jpg)
@@ -74,3 +74,4 @@ This strengthened the integration between robotic surgery and nuclear imaging.
 
 **Publication:**  
 Journal of Nuclear Medicine, 2021
+-->
