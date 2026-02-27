@@ -4,7 +4,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-# Portfolio
+
 
 This page presents selected projects from my PhD and research work in robotic surgery, medical imaging, and AI-assisted surgical guidance.
 
@@ -12,7 +12,7 @@ This page presents selected projects from my PhD and research work in robotic su
 
 # Robot-assisted SPECT for intraoperative nuclear imaging
 
-![Robot-assisted SPECT](/images/portfolio/Picture1.jpg)
+![Robot-assisted SPECT](/images/portfolio/Picture1_.jpg)
 
 Urology commonly combines fluorescence imaging and gamma tracing to localize targets during minimally invasive surgery, but fluorescence offers limited depth information and preoperative SPECT/CT often misaligns with the intraoperative anatomy.
 
@@ -29,7 +29,7 @@ European Urology, 2024
 
 # Freehand magnetic particle imaging (fhMPI)
 
-![fhMPI](/images/portfolio/Picture2.jpg)
+![fhMPI](/images/portfolio/Picture2_.jpg)
 
 Magnetic tracers are an emerging alternative to radioactive guidance in sentinel lymph node surgery.
 
@@ -44,7 +44,7 @@ Journal publication — see Google Scholar
 
 # Click-On gamma probe
 
-![Click-On probe](/images/portfolio/Picture3.jpg)
+![Click-On probe](/images/portfolio/Picture3_.jpg)
 
 I worked on development and evaluation of the second-generation Click-On gamma probe.
 
@@ -60,7 +60,7 @@ The Click-On probe:
 
 # Optical navigation of DROP-IN gamma probe
 
-![Optical navigation](/images/portfolio/Picture4.jpg)
+![Optical navigation](/images/portfolio/Picture4_.jpg)
 
 I developed an optical navigation method allowing the gamma probe to be localized directly in the laparoscopic video stream.
 
