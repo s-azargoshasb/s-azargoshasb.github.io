@@ -5,10 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-I develop applied AI and intelligent imaging technologies for robotic and image-guided interventions.
+I develop applied AI and intelligent imaging technologies for robotic and image-guided interventions, with a focus on translating research into clinically usable systems.
 
-Full publication list:  
-[Google Scholar Profile](https://scholar.google.com/citations?user=-DZyKJsAAAAJ&hl=en)
+<p>
+<a href="https://scholar.google.com/citations?user=-DZyKJsAAAAJ&hl=en" target="_blank" class="btn btn--primary">
+View Full Publication List on Google Scholar →
+</a>
+</p>
 
 ---
 
@@ -16,44 +19,59 @@ Full publication list:
 
 - **h-index:** 10  
 - **Citations:** 260+  
-- **Publications:** 14 peer-reviewed papers  
-- **Journals:** European Urology, Journal of Nuclear Medicine, Advanced Intelligent Systems, EJNMMI  
+- **Publications:** 14 peer-reviewed journal papers  
+- **Top journals:** European Urology, Journal of Nuclear Medicine, Advanced Intelligent Systems, EJNMMI  
 
 ---
 
 ## Selected First-Author Publications
 
-**Artificial intelligence-supported video analysis to assess robotic image guidance**  
-*Advanced Intelligent Systems*, 2023  
+### Artificial intelligence-supported video analysis to assess robotic image guidance  
+*Advanced Intelligent Systems, 2023*
 
-**Robot-assisted SPECT integrating nuclear imaging into robotic surgery**  
-*European Urology*, 2024  
+AI-based analysis of robotic surgery video to quantify surgical performance and improve intraoperative decision-making.
 
-**Optical navigation of the DROP-IN gamma probe using computer vision**  
-*Journal of Nuclear Medicine*, 2021  
+---
 
-**Click-On gamma probe improving surgical decision-making**  
-*European Journal of Nuclear Medicine and Molecular Imaging*, 2021  
+### Robot-assisted SPECT integrating nuclear imaging into robotic surgery  
+*European Urology, 2024*
 
-**Quantifying signal-to-background impact in fluorescence-guided surgery**  
-*Molecular Imaging and Biology*, 2023  
+Integration of real-time nuclear imaging into robotic surgery to improve cancer localization.
 
-**3D freehand magnetic particle imaging for intraoperative guidance**  
-*International Journal of Computer Assisted Radiology and Surgery*, 2022  
+---
+
+### Optical navigation of the DROP-IN gamma probe using computer vision  
+*Journal of Nuclear Medicine, 2021*
+
+Computer vision system for tracking surgical instruments during radioguided robotic surgery.
+
+---
+
+### Click-On gamma probe improving surgical decision-making  
+*European Journal of Nuclear Medicine and Molecular Imaging, 2021*
+
+Novel robotic probe improving surgical dexterity and navigation accuracy.
+
+---
+
+### Quantifying signal-to-background impact in fluorescence-guided surgery  
+*Molecular Imaging and Biology, 2023*
+
+Framework for evaluating imaging performance and clinical detection accuracy.
+
+---
+
+### 3D freehand magnetic particle imaging for intraoperative guidance  
+*International Journal of Computer Assisted Radiology and Surgery, 2022*
+
+New imaging modality enabling real-time surgical navigation.
 
 ---
 
 ## Additional Publications
 
-**PET and SPECT navigation strategies for interventional accuracy**  
-*Quarterly Journal of Nuclear Medicine and Molecular Imaging*, 2021  
+See full list on:
 
-**Robotic radioguided surgery: integration of detection modalities**  
-*Clinical and Translational Imaging*, 2023  
-
-**Fluorescence-guided nerve-preserving surgery using targeted peptides**  
-*Biomolecules*, 2023  
-
----
-
-For the complete and updated list, please see my Google Scholar profile.
+<a href="https://scholar.google.com/citations?user=-DZyKJsAAAAJ&hl=en">
+Google Scholar Profile
+</a>
